@@ -13,7 +13,7 @@ plotly==5.24.1
 
 
 
-pytables==3.10.1
+
 
 scikit-learn==1.5.1
 
